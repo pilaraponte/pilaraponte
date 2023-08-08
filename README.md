@@ -7,11 +7,10 @@ Welcome to my GitHub profile.
 - 🌱 I'm a FullStack developer student.
 - 😄 Pronouns: she/her
 
-<div>
+ 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pilaraponte&show_icons=true&theme=transparent)<br> 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pilaraponte&layout=compact&show_icons=true&theme=transparent)](https://github.com/pilaraponte/github-readme-stats)
-</div>
-***
+ 
 
 ### 💻 Technologies and tools i'm learning:
 
