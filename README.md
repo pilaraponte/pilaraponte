@@ -1,7 +1,6 @@
 ---
  Hi, I'm Maria Pilar 😊
 
-<img align="right" width="300px" style="margin-top:-20px" src="https://user-images.githubusercontent.com/127898471/235783526-7249a358-3db0-443b-bc58-8db1f6624b82.png"> 
 
 Welcome to my GitHub profile. 
 - 🔭 I’m currently working on Customer Success
@@ -9,12 +8,13 @@ Welcome to my GitHub profile.
 - 😄 Pronouns: she/her
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pilaraponte&show_icons=true&theme=transparent) 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pilaraponte&layout=compact&show_icons=true&theme=transparent)](https://github.com/pilaraponte/github-readme-stats)
 
 ***
 
 ### 💻 Technologies and tools i'm learning:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/> 
 
 ### 📫 Reach me
 
