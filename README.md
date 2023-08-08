@@ -8,8 +8,8 @@ Welcome to my GitHub profile.
 - 😄 Pronouns: she/her
 
  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=pilaraponte&show_icons=true&theme=dark)<br> 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pilaraponte&layout=compact&show_icons=true&theme=transparent)](https://github.com/pilaraponte/github-readme-stats)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=pilaraponte&show_icons=true&theme=merko)<br> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pilaraponte&layout=compact&show_icons=true&theme=merko)](https://github.com/pilaraponte/github-readme-stats)
  
 
 ### 💻 Technologies and tools i'm learning:
