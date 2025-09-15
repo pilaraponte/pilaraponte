@@ -3,7 +3,7 @@
 
 
 Welcome to my GitHub profile. 
-- 🔭 I’m currently working on Customer Success
+- 🔭 I’m currently working as an IT Service Analyst  
 - 🌱 I'm a FullStack developer student.
 - 😄 Pronouns: she/her
 
