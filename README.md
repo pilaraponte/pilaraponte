@@ -1,16 +1,12 @@
 ---
- Hi, I'm Maria Pilar 😊
+ Hi, I'm Pilar 😊
 
 
 Welcome to my GitHub profile. 
 - 🔭 I’m currently working as an IT Service Analyst  
-- 🌱 I'm a FullStack developer student.
+- 🌱 I'm a FullStack developer and  Data Analytcs student.
 - 😄 Pronouns: she/her
 
- 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=pilaraponte&show_icons=true&theme=merko)<br> 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pilaraponte&layout=compact&show_icons=true&theme=merko)](https://github.com/pilaraponte/github-readme-stats)
- 
 
 ### 💻 Technologies and tools i'm learning:
 
